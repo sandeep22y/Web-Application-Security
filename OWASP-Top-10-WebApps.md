@@ -16,3 +16,9 @@ This document lists the OWASP Top 10 application security risks along with brief
 
 > 📌 *This table summarizes the key application security risks identified by OWASP and recommended mitigations to reduce exposure.*
 
+
+<img width="936" height="258" alt="image" src="https://github.com/user-attachments/assets/76f2c00a-0814-4e47-933e-db458ff5b278" />
+
+
+
+
